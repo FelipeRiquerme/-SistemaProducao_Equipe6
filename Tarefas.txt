@@ -29,4 +29,4 @@ Para compartilhamento de informações usamos mediafire, discord e github
 
 Para o código Java usamos o eclipse e os slides do Ava, além dos códigos já produzidos por nós e muita ajuda na lenda do mobile Professor Lorenzo.
 
-Em geral utilizamos também para produção do slide o canva e para fazer o fluxograma o Miro
+Em geral utilizamos também para produção do slide o canva e para fazer o fluxograma o site Lucidchart.
