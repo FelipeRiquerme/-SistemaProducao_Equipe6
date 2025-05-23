@@ -1,1 +1,32 @@
+Participação de cada membro
 
+Aula - 13/05 (terça-feira)
+Eu (Gustavo), Felipe e Rodrigo começamos a fazer o fluxograma durante a aula. No entanto, por sugestão do professor, optamos por alterar alguns elementos do fluxograma. O nosso colega Rodrigo ficou encarregado dessas mudanças.
+
+Dia 15/05 (quinta-feira)
+Nesse dia, o professor deu uma introdução sobre CSS e HTML, explicando como utilizá-los e apresentando algumas tags principais. Também falou um pouco sobre a S.A., explicando como funciona o passo a passo, e nos informou que estava finalizando a edição dos vídeos sobre GitHub.
+
+Dia 16/05 (sexta-feira)
+Criamos um servidor no Discord para compartilhar arquivos entre o grupo. Além disso, eu (Gustavo) comecei a elaborar os slides e a desenvolver a parte de HTML e CSS, concluindo essa etapa no dia 18/05 (domingo), no meu computador pessoal.
+
+Dia 17/05 (sábado)
+Felipe da Rosa criou o repositório no GitHub com o nome SistemaProducao_Equipe6.
+
+Dia 19/05 (segunda-feira)
+Durante a aula, eu (Gustavo) e o Felipe da Rosa (também conhecido como Sn. Farofa) decidimos começar a parte de Java. Dividimos o código em duas classes: uma chamada Teste3, onde implementamos algumas funções, e outra chamada Menu, onde iniciamos o esqueleto do código.
+
+Dia 20/05 (terça-feira)
+Demos continuidade ao slide e eu (Gustavo) realizei alguns ajustes no CSS, centralizando melhor as divs. Além disso, Rodrigo e Felipe da Rosa focaram na classe Menu em Java e avançaram bastante no desenvolvimento do código. Depois que finalizei toda a parte de HTML e CSS, concentrei-me novamente na classe Teste3.
+
+Dia 22/05 (quinta-feira)
+Eu (Gustavo) me dediquei à organização do código e à estruturação do repositório no GitHub, organizando os arquivos em pastas. Também escrevi este relatório no arquivo tarefas.txt. Enquanto isso, os demais integrantes continuaram trabalhando na parte Java, com a orientação do professor, que deu sugestões sobre o que poderia ser melhorado ou ajustado no código.
+
+-Ferramenta e vídeos usados para fazer cada coisa.
+
+Para a parte do protótipo foi usado o VS code e youtube com o seguintes vídeos TELA DE LOGIN COM TEMA DARK | HTML +  CSS , Como Centralizar uma DIV ou Qualquer coisa no CSS, outras ferramentas como Cores css e html e Google fonts para importar algumas fontes e cores legais.
+
+Para compartilhamento de informações usamos mediafire, discord e github
+
+Para o código Java usamos o eclipse e os slides do Ava, além dos códigos já produzidos por nós e muita ajuda na lenda do mobile Professor Lorenzo.
+
+Em geral utilizamos também para produção do slide o canva e para fazer o fluxograma o Miro
