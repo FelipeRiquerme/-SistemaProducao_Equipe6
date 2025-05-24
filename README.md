@@ -14,4 +14,4 @@ esse e um sistema para gerenciar a produção de uma fábrica de tecidos.
 - Nome 3 - Rodrigo
 
 ## Como rodar o código
-1. Abra o eclipse e de F11 (n entendi direito essa parte)
+1. Abra o eclipse e de F11 
