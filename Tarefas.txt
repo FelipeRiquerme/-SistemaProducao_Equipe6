@@ -21,6 +21,9 @@ Demos continuidade ao slide e eu (Gustavo) realizei alguns ajustes no CSS, centr
 Dia 22/05 (quinta-feira)
 Eu (Gustavo) me dediquei à organização do código e à estruturação do repositório no GitHub, organizando os arquivos em pastas. Também escrevi este relatório no arquivo tarefas.txt. Enquanto isso, os demais integrantes continuaram trabalhando na parte Java, com a orientação do professor, que deu sugestões sobre o que poderia ser melhorado ou ajustado no código.
 
+Dia 24/05 (sabado)
+Nosso grupo hoje se juntou no discord e terminamos o codigo em java e o slide.
+
 -Ferramenta e vídeos usados para fazer cada coisa.
 
 Para a parte do protótipo foi usado o VS code e youtube com o seguintes vídeos TELA DE LOGIN COM TEMA DARK | HTML +  CSS , Como Centralizar uma DIV ou Qualquer coisa no CSS, outras ferramentas como Cores css e html e Google fonts para importar algumas fontes e cores legais.
