@@ -2,7 +2,7 @@
 
 # Sistema de Produção - Equipe 6
 
-esse e um sistema para gerenciar a produção de uma fábrica de tecidos.
+Esse e um sistema para gerenciar a produção de uma fábrica de tecidos.
 - Cadastrar máquinas e setores (tipos de tecido)
 - Registrar produção semanal de cada máquina
 - Calcular médias e totais por máquina e setor
